@@ -1,1 +1,3 @@
-This is a Drupal Module that provides a dimensionless square cropping image style.
+**This project has moved to Drupal.org**
+
+Please visit https://www.drupal.org/project/square_crop.
